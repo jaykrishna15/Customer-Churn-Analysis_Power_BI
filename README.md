@@ -115,5 +115,3 @@ Churn Prediction & Key Drivers
 
 Golla Jaya Krishna
 📧 jayakrishnagolla15@gmail.com
-
-🔗 LinkedIn

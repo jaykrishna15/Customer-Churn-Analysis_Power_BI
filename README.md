@@ -5,7 +5,7 @@
 This Power BI project analyzes customer churn behavior in a telecom company to identify key factors influencing customer retention and revenue.
 The dashboard provides insights into demographics, service subscriptions, contract types, billing patterns, and churn prediction drivers — helping stakeholders make data-driven decisions to reduce churn and improve customer satisfaction.
 
-🧾** Dataset Description**  
+## 🧾 Dataset Description
 
 Source: Telecom Customer Dataset
 Rows: 7,043
@@ -31,7 +31,7 @@ Columns: 21
 | Churn                                                                                          | Indicates whether the customer has churned (Yes/No)       |
 
 
-🧠 **Objectives**
+## 🧠 Objectives
 
 Identify customer segments with high churn risk.
 
@@ -43,8 +43,9 @@ Compare revenue impact of lost vs retained customers.
 
 Provide data-driven recommendations for retention strategies.
 
-📈 **Key Insights**
-🧍‍♂️ **Customer Demographics**
+## 📈 Key Insights
+
+##🧍‍♂️ Customer Demographics
 
 Overall churn rate: 27%
 
@@ -54,7 +55,7 @@ Customers in their first year show the highest churn.
 
 Average monthly charges rise with higher tenure.
 
-🌐** Service Subscription Analysis**
+## 🌐 Service Subscription Analysis
 
 Fiber Optic users churn the most (42%).
 
@@ -62,7 +63,7 @@ Customers with more add-on services churn less.
 
 Most churned customers used streaming services.
 
-💳 **Contract & Billing Insights**
+## 💳 Contract & Billing Insights
 
 Month-to-month contracts cause 75% of total churn.
 
@@ -72,7 +73,7 @@ Electronic check payments show the highest churn.
 
 Auto-payment (bank/credit card) users are more loyal.
 
-🤖** Churn Prediction & Key Drivers**
+## 🤖 Churn Prediction & Key Drivers
 
 Highest churn risk: Fiber Optic + Month-to-Month customers.
 
@@ -80,7 +81,7 @@ Lack of Tech Support or Online Security increases churn (~42%).
 
 Lost Revenue: ₹139K | Retained Revenue: ₹316K
 
-⚙️ **Tools & Techniques Used**
+## ⚙️ Tools & Techniques Used
 
 Power BI Desktop – Dashboard creation & data visualization
 
@@ -92,7 +93,7 @@ SQL – Data extraction and preprocessing
 
 Data Modeling – Star schema relationships
 
-🧩 **Dashboard Pages**
+## 🧩 Dashboard Pages
 
 Customer Demographics Analysis
 
@@ -102,10 +103,17 @@ Contract & Billing Insights
 
 Churn Prediction & Key Drivers
 
-🧭** Business Recommendations**
+## 🧭 Business Recommendations
 
 ✅ Encourage customers to move to long-term contracts
 ✅ Offer bundled packages with add-on services
 ✅ Improve Fiber Optic service quality
 ✅ Promote auto-payment options
 ✅ Enhance digital experience for paperless billing users
+
+## 🧑‍💻 Author
+
+Golla Jaya Krishna
+📧 jayakrishnagolla15@gmail.com
+
+🔗 LinkedIn

@@ -10,23 +10,26 @@ Source: Telecom Customer Dataset
 Rows: 7,043
 Columns: 21
 
-Column	Description
-customerID :- Unique ID for each customer
-gender:- Male or Female
-SeniorCitizen:-	Indicates senior citizen (1 = Yes, 0 = No)
-Partner :- 	Whether the customer has a partner
-Dependents :-	Whether the customer has dependents
-tenure:-	Number of months the customer has stayed with the company
-PhoneService:-	Indicates if phone service is active
-MultipleLines:-	Multiple phone lines or not
-InternetService	:-Type (DSL, Fiber optic, or No Internet)
-OnlineSecurity / OnlineBackup / DeviceProtection / TechSupport / StreamingTV / StreamingMovies	Add-on service subscriptions
-Contract :-Month-to-month, One year, or Two year
-PaperlessBilling :-	Yes or No
-PaymentMethod :-	Payment mode used by the customer
-MonthlyCharges :-	Monthly fee charged
-TotalCharges :-	Total billed amount
-Churn	Indicates whether the customer has churned (Yes/No)
+| Column                                                                                         | Description                                               |
+| ---------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| customerID                                                                                     | Unique ID for each customer                               |
+| gender                                                                                         | Male or Female                                            |
+| SeniorCitizen                                                                                  | Indicates senior citizen (1 = Yes, 0 = No)                |
+| Partner                                                                                        | Whether the customer has a partner                        |
+| Dependents                                                                                     | Whether the customer has dependents                       |
+| tenure                                                                                         | Number of months the customer has stayed with the company |
+| PhoneService                                                                                   | Indicates if phone service is active                      |
+| MultipleLines                                                                                  | Multiple phone lines or not                               |
+| InternetService                                                                                | Type (DSL, Fiber optic, or No Internet)                   |
+| OnlineSecurity / OnlineBackup / DeviceProtection / TechSupport / StreamingTV / StreamingMovies | Add-on service subscriptions                              |
+| Contract                                                                                       | Month-to-month, One year, or Two year                     |
+| PaperlessBilling                                                                               | Yes or No                                                 |
+| PaymentMethod                                                                                  | Payment mode used by the customer                         |
+| MonthlyCharges                                                                                 | Monthly fee charged                                       |
+| TotalCharges                                                                                   | Total billed amount                                       |
+| Churn                                                                                          | Indicates whether the customer has churned (Yes/No)       |
+
+
 🧠 Objectives
 
 Identify customer segments with high churn risk.
